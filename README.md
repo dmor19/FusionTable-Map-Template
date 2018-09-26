@@ -3,6 +3,23 @@
 [See working demo here:](http://dmor19.github.io/FusionTable-Map-Template/)
 :earth_americas: Searchable Map Template using Google Maps and Fusion Tables
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Credit
 - Searchable Map Template v1.4 created by Derek Eder: http://derekeder.com/searchable_map_template/
 - Google Group for questions: https://groups.google.com/forum/#!forum/fusion-table-map-template
